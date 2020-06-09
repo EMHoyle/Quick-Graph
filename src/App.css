@@ -1,0 +1,8 @@
+body{
+    background: url(./img/Moonlit\ Asteroid.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background: cover;
+    -moz-background: cover;
+    -o-background: cover;
+}
